@@ -17,5 +17,4 @@ print("Division is : ",div)
 user=input("Enter First Name : ")
 user1=input(" Enter Last Name : ")
 
-
 print(f"Hello {user} {user1} Welcome To The Python Program")
