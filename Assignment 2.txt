@@ -1,0 +1,15 @@
+                                                         #Assignment 2
+#Task 1
+user = int(input("Enter a number : "))
+if user%2==0:
+    print(f"{user} is an even number")
+else:
+    print(f"{user} is odd number")
+
+
+#task 2
+total=0
+for i in range(1,51):
+    total+=i
+print("The sum of number from 1 to 50 is : ",total)
+
